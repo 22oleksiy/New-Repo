@@ -13,9 +13,6 @@ class MyApp extends StatelessWidget {
 }
 class MyApp extends StatelessWidget {
     );home: Scaffold(
-        Arrested capital))))
-        ),
-class MyApp extends StatelessWidget {
     );home: Scaffold(
         Arrested capital))))
         ),         child: Text(
