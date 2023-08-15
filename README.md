@@ -1,6 +1,7 @@
 
 class MyApp extends StatelessWidget {
         ),         child: Text(
+class MyApp extends StatelessWidget {
         ),
       ),
     );
