@@ -6,10 +6,6 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-}
-class MyApp extends StatelessWidget {
-    );home: Scaffold(
-    );home: Scaffold(
         Arrested capital))))
         ),         child: Text(
             'Hello, World! ++',
