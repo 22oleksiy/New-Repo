@@ -6,6 +6,4 @@ class MyApp extends StatelessWidget {
           ),
             style: TextStyle(fontSize: 24),
     );
-            'Hello, World! ++',
-            style: TextStyle(fontSize: 24),
           ),
