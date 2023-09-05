@@ -5,5 +5,4 @@ class MyApp extends StatelessWidget {
             style: TextStyle(fontSize: 24),
           ),
             style: TextStyle(fontSize: 2
-    );
-          
+    
