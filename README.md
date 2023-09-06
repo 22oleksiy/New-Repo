@@ -1,8 +1,7 @@
 
 class MyApp extends StatelessWidget {
     );
-            'Hello, World! +
-            style: TextStyle(fontSize: 24),
+            'Hello, World! +1,
           ),
             style: TextStyle(fontSize: 2
     
