@@ -10,5 +10,3 @@ e
 iles[i].id;
         const accountNumber = data.profiles[i].account_n
         
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
