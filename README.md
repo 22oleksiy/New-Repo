@@ -8,9 +8,6 @@ class MyApp extends StatelessWidget {ick.waitForXPath(clickSelector);
                         await page4.waitForSelector(elementSelector4);
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
-                    }
-
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
