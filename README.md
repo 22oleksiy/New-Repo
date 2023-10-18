@@ -7,8 +7,7 @@ class MyApp extends StatelessWidget {ick.waitForXPath(clickSelector);
                         await page4.click(elementSeIdl;
                         await page4.waitForSelector(elemend;\
 count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
+        const accountNumber = daa.profiles[i].accou
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.click(elementSelector5);
