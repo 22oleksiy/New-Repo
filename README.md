@@ -1,6 +1,5 @@
 
-class MyApp extends StatelessWidget {ick.waitForXPath(clickSelector);
-                            await Promiswai1NetworkIdl
+class MyApp extends Statel await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
                         await page4.click(meelector
                         await page4.waiorNetworkIdle(l;
