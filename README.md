@@ -1,7 +1,5 @@
 
-class MyApp extends Statel await Promiswai1NetworkIdl
-                        await openedPaCwaitForSelector(selector
-                        await page4.click(meelector
+class MyApp extends Statel await Promiswai1tor
                         await page4.waiorNetworkIdle(l;
                         await page4.click(elementSeIdl;
                         await page4.waitForSelector(elemend;\
