@@ -1,7 +1,6 @@
 
 class MyApp extends Statel await Promiswai1tor
-                       t page4.waiorNetworkIdl
-                        await page4.clicementSeIdl;
+                       t page4.waiorNentSeIdl;
                         await page4.waitForSelector(elemend;\
 count_number;= data.profiles[i]
                         await page4.waitForNetworkIdle();
