@@ -1,6 +1,5 @@
 
-class MyApp extends Statel a4.waitForSelector(elemend;\
-count_number;= data.profiles[i]
+class MyApp extendprofiles[i]
                         await page4.waitForNetworkIdle();
 ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
