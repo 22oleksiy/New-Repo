@@ -1,7 +1,6 @@
 
 class MyApp extendprofiles[i]
-                        await page4.waitForNetworkIdle();
-ick.waitForXPath(clickSelector);
+                     or);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
                         await page4.click(meelector
