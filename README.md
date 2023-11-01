@@ -1,5 +1,4 @@
 
-class MyApp extendprofiles[i]
                      or);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
