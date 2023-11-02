@@ -1,7 +1,6 @@
 
                      or);
-                            await Promiswai1NetworkIdl
-                        await openedPaCwaitForSelector(selector
+                            await PromiswSelector(selector
                         await page4.click(meelector
                         await page4.waiorNetworkIdle(l;
                         await page4.click(elementSeIdl;
