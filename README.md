@@ -1,6 +1,5 @@
 
-                     dle();ta.
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
+                     dle();ta.= data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
