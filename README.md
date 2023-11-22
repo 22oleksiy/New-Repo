@@ -1,7 +1,5 @@
 
-                     dle();ta.=ta.iles[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
-
+                     dle();ta.=ta.iles[i      
 
 );
 ick.waitForXPath(clickSelector);
