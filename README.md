@@ -1,8 +1,5 @@
 
-                     dle();ta.=ta.iles[i      
-
-);
-ick.waitForXPath(clickSelector);
+                     dle();ta.=ta
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
                         await page4.click(meelector
