@@ -6,9 +6,7 @@
                         await page4.waiorNetworkIdle(l;
                         await page4.click(elementSeIdl;
                         await page4.waitForSelector(elementSelector4);
-                        await page4.click(elementSelector4);
-                        await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
+                        await page4.cliata.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
