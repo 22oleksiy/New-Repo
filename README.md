@@ -2,13 +2,7 @@
                      dle();ta.=ta
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
-                        await page4.click(meelector
-                        await page4.waiorNetw[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
-
-
-iles[i].id;
-iles[i]
+                        await page4.click(meele
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
