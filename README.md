@@ -1,6 +1,4 @@
-
-                     dle();ta.=ta
-                            await Promiswai1NetworkIdl
+swai1NetworkIdl
                         await openedPaCwaitForSelector(selector
                         await page4.click(meele
         const accountNumber = data.profiles[i].account_number;
