@@ -1,6 +1,4 @@
 swai1NetworkIdl
-                        await openedPaCwaitForSelector(selector
-                        await page4.click(meele
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
