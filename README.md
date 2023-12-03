@@ -1,7 +1,4 @@
-swai1NetworkIdl
-        const accountNumber = data.profiles[i]ssword;   
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
+swai1NetworkIdlt_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
