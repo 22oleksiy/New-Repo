@@ -1,1 +1,1 @@
-orSelector(elementSelector5itForNetworkIdle();
+orSelector(elementSelector5itForN
