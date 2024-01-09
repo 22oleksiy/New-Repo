@@ -1,2 +1,2 @@
 
-длhggpet=s[i tForlemn
+длhggpet=s[i tFor
