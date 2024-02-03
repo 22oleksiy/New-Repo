@@ -14,12 +14,6 @@ ghgfgf ghgfgf s const = daa.nst e( const accountNumber = data.profiles[i] umber;
 s const 
 = daa.nst e(
 umber;.profile[i].passwors[i]s const 
-= daa.nst 
-ta.profili].pasSelector
-
-
-umber;.profile[i].passwors[i]s const 
-= daa.nst 
 ta.profili].pasSelector
 e(
         const accountNumber = data.profiles[i]
